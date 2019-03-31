@@ -57,3 +57,10 @@ process_open_fds 10.0
 # TYPE process_max_fds gauge
 process_max_fds 4096.0
 
+===========================================
+A quick guide on how to instrument an application can be found here:
+
+- https://prometheus.io/docs/instrumenting/clientlibs/
+- https://prometheus.io/docs/instrumenting/writing_exporters/
+
+
