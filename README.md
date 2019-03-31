@@ -58,6 +58,8 @@ process_open_fds 10.0
 process_max_fds 4096.0
 
 ===========================================
+
+
 A quick guide on how to instrument an application can be found here:
 
 - https://prometheus.io/docs/instrumenting/clientlibs/
